@@ -1,0 +1,950 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+
+%% Created for Maxwell Grady at 2017-05-03 15:32:19 -0400 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+@comment{jabref-meta: databaseType:bibtex;}
+
+
+
+@article{novel-materials,
+	Author = {John A. Rogers and Joseph M. DeSimone},
+	Date-Added = {2017-05-03 16:07:23 +0000},
+	Date-Modified = {2017-05-03 16:08:10 +0000},
+	Journal = {Proceedings of the National Academy of Sciences of the United States of America},
+	Month = {October},
+	Title = {Novel Materials},
+	Year = {2016}}
+
+@article{bp-ren,
+	Author = {Xi Ling and Han Wang and Shengxi Huang and Fengnian Xia and Mildred S. Dresselhaus},
+	Date-Added = {2017-05-03 15:35:42 +0000},
+	Date-Modified = {2017-05-03 15:37:01 +0000},
+	Journal = {Proceedings of the National Academy of Sciences of the United States of America},
+	Title = {The renaissance of black phosphorus},
+	Year = {2015}}
+
+@article{graphene-optics,
+	Author = {Kin Fai Mak and Long Ju and Feng Wang and Tony F. Heinz},
+	Date-Added = {2017-05-02 17:37:46 +0000},
+	Date-Modified = {2017-05-02 17:38:51 +0000},
+	Journal = {Solid State Communications},
+	Title = {Optical spectroscopy of graphene: From the far infrared to the ultraviolet},
+	Volume = {152},
+	Year = {2012}}
+
+@article{BP-layers-gap,
+	Author = {Likai Li and Jonghwan Kim and Chenhao Jin and Guo Jun Ye and Diana Y. Qiu and Felipe H. da Jornada and Zhiwen Shi and Long Chen and Zuocheng Zhang and Fangyuan Yang and Kenji Watanabe and Takashi Taniguchi and Wencai Ren and Steven G. Louie and Xian Hui Chen and Yuanbo Zhang and Feng Wang},
+	Date-Added = {2017-02-21 21:20:22 +0000},
+	Date-Modified = {2017-02-21 21:25:04 +0000},
+	Journal = {Nature Nanotechnology},
+	Title = {Direct observation of the layer-dependent electronic structure in phosphorene},
+	Volume = {12},
+	Year = {2016}}
+
+@article{mos2-surfsci,
+	Author = {Zhongwei Dai and Wencan Jin and Maxwell Grady and Jerzy T. Sadowski and Jerry I. Dadap and Richard M. Osgood Jr. and Karsten Pohl},
+	Date-Added = {2017-02-21 16:07:22 +0000},
+	Date-Modified = {2017-02-21 16:09:14 +0000},
+	Journal = {Surface Science},
+	Title = {Surface Structure of bulk {2H-MoS$_2$}: A selected area low energy electron diffraction study},
+	Volume = {660},
+	Year = {2017}}
+
+@article{Mos2GapTransition,
+	Author = {Wencan Jin and Po-Chun Yeh and Nader Zaki and Datong Zhang and Jerzy T. Sadowski and Abdullah Al-Mahboob and {Arend M. van der Zande} and Daniel A. Chenet and Jerry I. Dadap and Irving P. Herman and Peter Sutter and James Hone and Richard M. Osgood Jr.},
+	Date-Added = {2017-02-21 16:00:35 +0000},
+	Date-Modified = {2017-02-21 16:04:14 +0000},
+	Journal = {Physical Review Letters},
+	Number = {106801},
+	Title = {Direct Measurement of the Thickness-Dependent Electronic Band Structure of {MoS$_2$} Using Angle-Resolved Photoemission Spectroscopy},
+	Volume = {111},
+	Year = {2013}}
+
+@article{TMD-bandgaps-ARPES,
+	Author = {Th. B{\"o}ker and R. Severin and A. M{\"u}ller and C. Janowitz and R. Manzke and D. Vo{\ss} and P. Kr{\"u}ger and A. Mazur and J. Pollmann},
+	Date-Added = {2017-02-21 15:15:12 +0000},
+	Date-Modified = {2017-02-21 15:24:11 +0000},
+	Journal = {Physical Review B},
+	Title = {Band structure of {MoS$_2$}, {MoSe$_2$}, and {$\alpha$-MoTe$_2$}: Angle-resolved photoemission spectroscopy and \emph{ab initio} calculations},
+	Volume = {64},
+	Year = {2001}}
+
+@article{MoS2BulkGap,
+	Author = {K. K. Kam and B. A. Parkinson},
+	Date-Added = {2017-02-20 21:26:09 +0000},
+	Date-Modified = {2017-02-20 21:27:37 +0000},
+	Journal = {Journal of Physical Chemistry},
+	Pages = {463-467},
+	Title = {Detailed Photocurrent Spectroscopy of the Semiconducting Group VI TRansition Metal Dichalcogenides},
+	Volume = {86},
+	Year = {1982}}
+
+@article{energystoragematerials,
+	Author = {Jitendra N. Tiwari and Rajanish N. Tiwari and Kwang S. Kim},
+	Date-Added = {2017-02-02 20:05:40 +0000},
+	Date-Modified = {2017-02-02 20:08:31 +0000},
+	Journal = {Progress in Materials Science},
+	Title = {Zero-dimensional, one-dimensional, two-dimensional, and three-dimensional nanostructure materials for advanced electrochemical devices},
+	Volume = {57},
+	Year = {2012}}
+
+@article{nanocancer,
+	Author = {Mark E. Davis and Jonathan E. Zuckerman and Chung Hanh J. Choi and David Seligson and Anthony Tolcher and Christopher A. Alabi and Yun Yen and Jeremy D. Heidel and Antoni Ribas},
+	Date-Added = {2017-02-02 20:00:37 +0000},
+	Date-Modified = {2017-02-02 20:03:18 +0000},
+	Journal = {Nature},
+	Title = {Evidence of RNAi in humans from systematically administered siRNA via targeted nanoparticles},
+	Volume = {464},
+	Year = {2010}}
+
+@article{ptclusters,
+	Author = {Yi Pan and Min Gao and Li Huang and H.-J. Gao},
+	Date-Added = {2017-01-18 21:12:06 +0000},
+	Date-Modified = {2017-01-18 21:13:45 +0000},
+	Journal = {Applied Physics Letters},
+	Title = {Directed self-assembly of monodispersed platinum nanoclusters on graphene moire template},
+	Volume = {95},
+	Year = {2009}}
+
+@article{test,
+	Date-Added = {2017-01-17 17:48:56 +0000},
+	Date-Modified = {2017-01-17 17:51:33 +0000}}
+
+@article{ru-auger-prep,
+	Author = {J. C. Vickerman and K. Christmann and G. Ertl},
+	Date-Added = {2017-01-17 17:29:19 +0000},
+	Date-Modified = {2017-01-17 17:30:40 +0000},
+	Journal = {Surface Science},
+	Number = {2},
+	Title = {Geometric structure and electronic states of copper films on a ruthenium (0001) surface},
+	Volume = {134},
+	Year = {1983}}
+
+@article{QSE,
+	Author = {M. S. Altman and W. F. Chung and Z. Q. He and H. C. Poon and S. Y. Tong},
+	Date-Added = {2017-01-11 19:45:02 +0000},
+	Date-Modified = {2017-01-11 19:46:28 +0000},
+	Journal = {Applied Surface Science},
+	Title = {Quantum Size effect in low energy electron diffraction of thin films},
+	Year = {2001}}
+
+@article{hibino-prb-g-sic,
+	Author = {H. Hibino and H. Kageshima and F. Maeda and M. Nagase and Y. Kobayashi and H. Yamaguchi},
+	Date-Added = {2017-01-11 19:05:58 +0000},
+	Date-Modified = {2017-01-11 19:08:02 +0000},
+	Journal = {Physical Review B},
+	Number = {075413},
+	Title = {Microscopic thickness determination of think graphite films formed on SiC from quantized oscillation in reflectivity of low-energy electrons},
+	Volume = {77},
+	Year = {2008}}
+
+@article{hibino-g-sic,
+	Author = {H. Hibino and H. Kageshima and F. Maeda and M. Nagase and Y. Kobayashi and Y. Kobayashi and H. Yamaguchi},
+	Date-Added = {2017-01-11 18:56:09 +0000},
+	Date-Modified = {2017-01-11 18:58:40 +0000},
+	Journal = {e-Journal of Surface Science and Nanotechnology},
+	Title = {Thickness Determination of Graphene Layers Formed on SiC Using Low-Energy Electron Microscopy},
+	Volume = {6},
+	Year = {2008}}
+
+@book{pendry-LEED,
+	Author = {J. B. Pendry},
+	Date-Added = {2016-12-07 19:38:23 +0000},
+	Date-Modified = {2016-12-07 19:40:13 +0000},
+	Publisher = {Academic Press London and New York},
+	Series = {Techniques of Physics},
+	Title = {Low Energy Electron Diffraction: The Theory and its Application to Determination of Surface Structure},
+	Year = {1974}}
+
+@book{vanHove-LEED,
+	Author = {M. A. van Hove and S. Y. Tong},
+	Date-Added = {2016-12-07 19:32:04 +0000},
+	Date-Modified = {2016-12-07 19:34:55 +0000},
+	Publisher = {Springer},
+	Series = {Springer Series in Chemical Physics},
+	Title = {Surface Crystallography by LEED},
+	Year = {1979}}
+
+@book{Figuera-LEEM,
+	Date-Added = {2016-11-30 21:20:27 +0000},
+	Date-Modified = {2016-11-30 21:22:56 +0000},
+	Editor = {G. Bracco and B. Holst},
+	Number = {51},
+	Publisher = {Springer-Verlag},
+	Series = {Springer Series in Surface Science},
+	Title = {Surface Science Techniques},
+	Year = {2013}}
+
+@article{2d-electronics,
+	Author = {Gianluca Fiori and Francesco Bonaccorso and Giuseppe Iannaccone and Tomas Palacios and Daniel Neumaier and Alan Seabaugh and Sanjay K. Banerjee and Luigi Colombo},
+	Date-Added = {2016-11-28 19:07:27 +0000},
+	Date-Modified = {2016-11-28 19:09:58 +0000},
+	Journal = {Nature Nanotechnology},
+	Month = {October},
+	Title = {Electronics based on two-dimensional materials},
+	Volume = {9},
+	Year = {2014}}
+
+@article{o2-intercalation,
+	Author = {Peter Sutter and Jerzy T. Sadowski and Eli A. Sutter},
+	Date-Added = {2016-10-06 18:57:13 +0000},
+	Date-Modified = {2016-10-06 18:59:51 +0000},
+	Journal = {Journal of the American Chemical Society},
+	Number = {23},
+	Title = {Chemistry under Cover: Tuning Metal-Graphene Interaction by Reactive Intercalation},
+	Volume = {132},
+	Year = {2010}}
+
+@jurthesis{georgi-thesis,
+	Author = {Georgi Nenchev},
+	Date-Added = {2016-10-06 16:24:12 +0000},
+	Date-Modified = {2016-10-06 16:25:03 +0000},
+	Month = {May},
+	School = {University of New Hampshire},
+	Title = {Nanotemplate Creation and Self-Assembly on the (111) Surface of Gold},
+	Year = {2008}}
+
+@jurthesis{bog-thesis,
+	Author = {Bogdan Diaconescu},
+	Date-Added = {2016-10-06 16:21:39 +0000},
+	Date-Modified = {2016-10-06 16:23:28 +0000},
+	Month = {May},
+	School = {University of New Hampshire},
+	Title = {Self-Assembly on Strained MEtallic Interfaces and Novel collective Excitations on Metal surfaces},
+	Year = {2007}}
+
+@article{SiC-passivation,
+	Author = {C. Riedl and C. coletti and T. Iwasaki and A. A. Zakharov and U. Starke},
+	Date-Added = {2016-10-06 15:10:15 +0000},
+	Date-Modified = {2016-10-06 15:11:57 +0000},
+	Journal = {Physical Review Letters},
+	Month = {December},
+	Title = {Quasi-Free-Standing Epitaxial Graphene on SiC Obtained by Hydrogen Intercalation},
+	Volume = {103},
+	Year = {2009}}
+
+@article{mm-graphene,
+	Author = {Yi Pan and Haigang Zhang and Dongxia Shi and Jiatao Sun and Shixuan Du and Feng Liu and Hong-jun Gao},
+	Date-Added = {2016-10-05 16:30:36 +0000},
+	Date-Modified = {2016-10-05 16:32:52 +0000},
+	Journal = {Advanced Materials},
+	Month = {July},
+	Number = {27},
+	Title = {Highly Ordered, Millimeter-Scale, Continuous, Single-Crystalline Graphene Monolayer Formed on Ru(0001)},
+	Volume = {21},
+	Year = {2008}}
+
+@article{c-clusters,
+	Author = {Elena Logovina and Norman C Bartelt and Peter J Feibelman and Kevin F McCarty},
+	Date-Added = {2016-10-05 15:29:30 +0000},
+	Date-Modified = {2016-10-05 16:05:50 +0000},
+	Journal = {New Journal of Physics},
+	Title = {Evidence for graphene growth by C cluster attachment},
+	Volume = {10},
+	Year = {2008}}
+
+@article{Hibino,
+	Author = {H. Hibino and H. Kageshima and M. Nagase},
+	Date-Added = {2016-10-03 19:14:13 +0000},
+	Date-Modified = {2016-10-03 19:15:49 +0000},
+	Journal = {Journal of Physics D: Applied Physics},
+	Title = {Epitaxial few-layer graphene: towards single crystal growth},
+	Volume = {43},
+	Year = {2010}}
+
+@article{graphene-encap,
+	Author = {Zakaria Y. Al Balushi and Ke Wang and Ram Krishna Ghosh and Rafael A. Vila and Sarah M. Eichfeld and Joshua D. Caldwell and Xiaoye Qin and Yu-Chuan Lin and Paul A. DeSario and Greg Stone and Shruti Subramanian and Dennis F. Paul and Robert M. Wallace and Suman Datta and Joan M. Redwing and Joshua A. Robinson},
+	Date-Added = {2016-09-08 16:44:42 +0000},
+	Date-Modified = {2016-09-08 16:48:25 +0000},
+	Journal = {Nature Materials},
+	Title = {Two-dimensional gallium nitride realized via graphene encapsulation},
+	Year = {2016}}
+
+@book{Wolf-apps,
+	Author = {Wolf, E. L.},
+	Date-Added = {2016-08-24 21:05:00 +0000},
+	Date-Modified = {2016-09-07 18:13:22 +0000},
+	Publisher = {Springer},
+	Series = {Springer Briefs in Materials},
+	Title = {Applications of Graphene: An Overview},
+	Year = {2014}}
+
+@article{ru-solar,
+	Author = {Daibin Kuang and Seigo Ito and Bernard Wenger and Cedric Klein and Jaques-E. Moser and Robin Humphry-Baker and Shaik M. Zakeeruddin and Michael Gr{\"a}tzel},
+	Date-Added = {2016-08-16 16:29:06 +0000},
+	Date-Modified = {2016-08-16 16:31:04 +0000},
+	Journal = {Journal of the American Chemical Society},
+	Number = {12},
+	Title = {High Molar Extinction Coefficient Heteroleptic Ruthenium Complexes for Thin Film Dye-Sensitized Solar Cells},
+	Volume = {128},
+	Year = {2006}}
+
+@article{ru-electronics,
+	Author = {Chepuri R. K. Rao and D. C. Trivedi},
+	Date-Added = {2016-08-16 16:25:55 +0000},
+	Date-Modified = {2016-08-16 16:37:13 +0000},
+	Journal = {Coordination Chemistry Reviews},
+	Month = {March},
+	Title = {Chemical and electrochemical depositions of platinum group metals and their applications},
+	Volume = {249},
+	Year = {2005}}
+
+@article{ru-resistors,
+	Author = {M. G. Busana and M. Prudenziati and J. Hormadaly},
+	Date-Added = {2016-08-16 16:23:20 +0000},
+	Date-Modified = {2016-08-16 16:24:50 +0000},
+	Journal = {Journal of Material Science: Materials in Electronics},
+	Number = {11},
+	Title = {Microstructure development and electrical properties of RuO2-based lead-free thick film resistors},
+	Volume = {17},
+	Year = {2006}}
+
+@article{sony-graphene,
+	Author = {Toshiyuki Kobayashi and Masashi Bando and Nozomi Kimura and Keisuke Shimizu and Koji Kadono and Nobuhiko Umezu and Kazuhiko Miyahara and Shinji Hayazaki and Sae Nagai and Yukiko Mizuguchi and Yosuke Murakami and Daisuke Hobara},
+	Date-Added = {2016-08-11 17:20:45 +0000},
+	Date-Modified = {2016-08-11 17:24:08 +0000},
+	Journal = {Applied Physics Letters},
+	Number = {023112},
+	Title = {Production of a 100-m-long high-quality graphene transparent conductive film by roll-to-roll chemical vapor deposition and transfer process},
+	Volume = {102},
+	Year = {2013}}
+
+@article{samsung-graphene,
+	Author = {Jae-Hyun Lee and Eun Kyung Lee and Won-Jae Joo and Yamujin Jang and Byung-Sung Kim and Jae Young Lim and Soon-Hyung Choi and Sung Joon Ahn and Joung Real Ahn and Min-Ho Park and Cheol-Woong Yang and Byoung Lyong Choi and Sung-Woo Hwang and Dongmok Whang},
+	Date-Added = {2016-08-11 16:04:09 +0000},
+	Date-Modified = {2016-08-11 16:07:36 +0000},
+	Journal = {Science},
+	Month = {April},
+	Number = {6181},
+	Title = {Wafer-Scale Growth of Single-Crystal Monolayer Graphene on Reusable Hydrogen-Terminated Germanium},
+	Volume = {344},
+	Year = {2014}}
+
+@article{graphene-opto,
+	Author = {F. Bonaccorso and Z. Sun and T. Hasan and A. C. Ferrari},
+	Date-Added = {2016-08-09 18:54:04 +0000},
+	Date-Modified = {2016-08-09 18:55:42 +0000},
+	Journal = {Nature Photonics},
+	Month = {September},
+	Title = {Graphene photonics and optoelectronics},
+	Volume = {4},
+	Year = {2010}}
+
+@book{graphene-synth-app,
+	Date-Added = {2016-08-09 18:41:22 +0000},
+	Date-Modified = {2016-08-09 18:42:48 +0000},
+	Editor = {Wonbong Choi and Jo-won Lee},
+	Publisher = {CRC Press},
+	Series = {Nanomaterials and Their Applications},
+	Title = {Graphene Synthesis and Applications},
+	Year = {2012}}
+
+@article{graphene-2d-optoelectronics,
+	Author = {Andreas Bablich and Satender Kataria and Max C. Lemme},
+	Date-Added = {2016-07-18 18:08:31 +0000},
+	Date-Modified = {2016-07-18 18:10:03 +0000},
+	Journal = {Electronics},
+	Number = {13},
+	Title = {Graphene and Two-Dimensional Materials for Optoelectronic Applications},
+	Volume = {5},
+	Year = {2016}}
+
+@article{monolayer-mos2,
+	Author = {Kin Fai Mak and Changgu Lee and James Hone and Jie Shan and Tony F. Heinz},
+	Date-Added = {2016-07-18 17:29:05 +0000},
+	Date-Modified = {2016-07-18 17:30:36 +0000},
+	Journal = {Physical Review Letters},
+	Month = {September},
+	Read = {0},
+	Title = {Atomically Thin MoS2: A New Direct-Gap Semiconductor},
+	Volume = {105},
+	Year = {2010}}
+
+@misc{400ppm,
+	Author = {Climate.NASA.gov},
+	Date-Added = {2016-06-22 19:37:15 +0000},
+	Date-Modified = {2016-06-22 19:38:33 +0000},
+	Month = {May},
+	Title = {NASA scientists react to 400 ppm carbon milestone},
+	Url = {http://climate.nasa.gov/400ppmquotes/},
+	Year = {2013},
+	Bdsk-Url-1 = {http://climate.nasa.gov/400ppmquotes/}}
+
+@misc{popdata,
+	Author = {Worldometers.info},
+	Date-Added = {2016-06-09 16:52:10 +0000},
+	Date-Modified = {2016-06-09 16:59:41 +0000},
+	Month = {June},
+	Title = {World Population (2016 and historical)},
+	Url = {http://www.worldometers.info/world-population/},
+	Year = {2016},
+	Bdsk-Url-1 = {http://www.worldometers.info/world-population/}}
+
+@misc{enerdata,
+	Author = {Enerdata Intelligence and Consulting},
+	Date-Added = {2016-06-09 16:49:46 +0000},
+	Date-Modified = {2016-06-09 16:51:51 +0000},
+	Month = {June},
+	Title = {Global Energy Statistical Yearbook 2015: Total energy consumption},
+	Url = {https://yearbook.enerdata.net/},
+	Year = {2016},
+	Bdsk-Url-1 = {https://yearbook.enerdata.net/}}
+
+@webpage{ars-intel,
+	Author = {Peter Bright},
+	Date-Added = {2016-06-09 15:57:00 +0000},
+	Date-Modified = {2016-06-09 16:05:34 +0000},
+	Journal = {ArsTechnica: Technology Lab},
+	Month = {March},
+	Title = {Intel retires ``tick-tock'' development model, extending the life of each process},
+	Url = {http://arstechnica.com/information-technology/2016/03/intel-retires-tick-tock-development-model-extending-the-life-of-each-process/},
+	Year = {2016},
+	Bdsk-Url-1 = {http://arstechnica.com/information-technology/2016/03/intel-retires-tick-tock-development-model-extending-the-life-of-each-process/}}
+
+@book{kitel,
+	Author = {Charles Kitel},
+	Date-Added = {2016-06-01 17:48:30 +0000},
+	Date-Modified = {2016-06-01 17:49:29 +0000},
+	Edition = {2nd},
+	Publisher = {John Wiley and Sons},
+	Title = {Introduction to Solid State Physics},
+	Year = {1956}}
+
+@article{mcclure,
+	Author = {J. W. McClure},
+	Date-Added = {2016-06-01 15:20:35 +0000},
+	Date-Modified = {2016-06-01 15:21:51 +0000},
+	Journal = {Physical Review},
+	Title = {Band Structure and de Haas-van Alphen Effect in Graphite},
+	Year = {1957}}
+
+@book{katsnelson,
+	Author = {Mikhail I. Katsnelson},
+	Date-Added = {2016-05-31 18:26:03 +0000},
+	Date-Modified = {2016-05-31 18:27:13 +0000},
+	Publisher = {Cambridge University Press},
+	Title = {Graphene Carbon in Two Dimensions},
+	Year = {2012}}
+
+@article{2d-atlas,
+	Author = {Mir{\'o}, Pere and Audiffred, Martha and Heine, Thomas},
+	Date-Added = {2016-05-25 18:11:00 +0000},
+	Date-Modified = {2016-05-25 18:12:28 +0000},
+	Journal = {Chemical Society Reviews},
+	Title = {An atlas of two-dimensional materials},
+	Volume = {43},
+	Year = {2014}}
+
+@article{honeycombcarbon,
+	Author = {Allen, Matthew J. and Tung, Vincent C. and Kaner, Richard B.},
+	Date-Added = {2016-05-25 15:59:54 +0000},
+	Date-Modified = {2016-05-25 16:01:27 +0000},
+	Journal = {Chemical Reviews},
+	Pages = {132-145},
+	Title = {Honeycomb Carbon: A Review of Graphene},
+	Volume = {110},
+	Year = {2010}}
+
+@book{history-thermodynamics,
+	Author = {Ingo M{\"u}ller},
+	Date-Added = {2016-05-24 20:09:37 +0000},
+	Date-Modified = {2016-05-24 20:11:26 +0000},
+	Publisher = {Springer-Verlag},
+	Title = {A History of Thermodynamics: The Doctrine of Energy and Entropy},
+	Year = {2007}}
+
+@article{novoselov-2d,
+	Author = {K. S. Novoselov and D. Jiang and F. Schedin and T. J. Booth and V. V. Khotkevich and S. V. Morozov and A. K. Geim},
+	Date-Added = {2016-05-24 19:43:30 +0000},
+	Date-Modified = {2016-05-24 19:46:03 +0000},
+	Journal = {Proceedings of the National Academy of Sciences of the United States of America},
+	Month = {July},
+	Number = {30},
+	Title = {Two-dimensional atomic crystals},
+	Volume = {102},
+	Year = {2005}}
+
+@book{Zangwill,
+	Author = {Zangwill, Andrew},
+	Date-Added = {2016-05-04 17:49:35 +0000},
+	Date-Modified = {2016-05-04 17:50:40 +0000},
+	Publisher = {Cambridge University Press},
+	Title = {Physics at Surfaces},
+	Year = {1988}}
+
+@book{STM-I,
+	Date-Added = {2016-05-02 19:51:16 +0000},
+	Date-Modified = {2016-05-25 19:03:38 +0000},
+	Editor = {Guntherodt, Hans-Joachim and Weisendanger, Roland},
+	Publisher = {Springer-Verlag},
+	Series = {Springer Series in Surface Science},
+	Title = {Scanning Tunneling Microscopy I General Principles and Applications to Clean Adsorbate Covered Surfaces},
+	Volume = {20},
+	Year = {1992}}
+
+@article{STM-DNA,
+	Author = {Guckenberger, R. and Heim, M. and Knapp, H.F. and Wiegrabe, W. and Hillebrand, A.},
+	Date-Added = {2016-04-26 19:48:51 +0000},
+	Date-Modified = {2016-04-26 19:50:43 +0000},
+	Journal = {Science Reports},
+	Month = {December},
+	Pages = {1538-1540},
+	Title = {Scanning tunneling microscopy of insulators and biological specimens based on lateral conductivity of ultrathin water films},
+	Volume = {266},
+	Year = {1994}}
+
+@article{BinnigRohrerSTM,
+	Author = {Binnig, G. and Rohrer, H. and Gerber, Ch. and Weibel, E.},
+	Date-Added = {2016-04-26 19:34:47 +0000},
+	Date-Modified = {2016-04-26 19:36:21 +0000},
+	Journal = {Physical Review Letters},
+	Pages = {57-61},
+	Title = {Surface Studies by Scanning Tunneling Microscopy},
+	Volume = {49},
+	Year = {1982}}
+
+@book{Ashcroft,
+	Author = {Ashcroft, Neil W. and Mermin, N. David},
+	Date-Added = {2016-04-25 20:49:57 +0000},
+	Date-Modified = {2016-04-25 20:51:47 +0000},
+	Publisher = {Thomson Learning},
+	Title = {Solid State Physics},
+	Year = {1976}}
+
+@book{SPM-methods,
+	Author = {Wiesendanger, Roland},
+	Date-Added = {2016-04-25 20:38:29 +0000},
+	Date-Modified = {2016-04-25 20:39:38 +0000},
+	Publisher = {Cambride University PRess},
+	Title = {Scanning Probe Microscopy and Spectroscopy Methods and Applications},
+	Year = {1998}}
+
+@article{newyorktimesIBM,
+	Author = {Markoff, John},
+	Date-Added = {2016-04-20 18:04:20 +0000},
+	Date-Modified = {2016-04-20 18:16:45 +0000},
+	Journal = {New York Times},
+	Month = {July 9th},
+	Pages = {B2},
+	Title = {IBM Discloses Working Version of a Much Higher-Capacity Chip},
+	Year = {2015}}
+
+@article{MADLEEM,
+	Author = {Mankos, Marian and Shadman, Khashayar},
+	Date-Added = {2016-04-20 15:56:00 +0000},
+	Date-Modified = {2016-04-20 15:57:45 +0000},
+	Journal = {Ultramicroscopy},
+	Title = {A monochromatic, aberation-corrected, dual-beam low energy electron microscope},
+	Volume = {130},
+	Year = {2013}}
+
+@book{Bauer-LEEM,
+	Author = {Bauer, Ernst},
+	Date-Added = {2016-04-20 15:48:00 +0000},
+	Date-Modified = {2016-04-20 15:48:57 +0000},
+	Publisher = {Springer},
+	Title = {Surface Microscopy with Low Energy Electrons},
+	Year = {2014}}
+
+@article{graphene-metals,
+	Author = {Wintterlin, J. and Bocquet, M.-L.},
+	Date-Added = {2016-03-01 16:25:37 +0000},
+	Date-Modified = {2016-03-01 16:26:37 +0000},
+	Journal = {Surface Science},
+	Title = {Graphene on metal surfaces},
+	Year = {2009}}
+
+@article{turbostratic-graphene,
+	Author = {Garlow, Joseph A. and Barrett, Lawrence K. and Wu, Lijun, and Kisslinger, Kim and Zhu, Yimei and Pulecio, Javier F.},
+	Date-Added = {2016-03-01 15:42:50 +0000},
+	Date-Modified = {2016-03-01 15:44:47 +0000},
+	Journal = {Nature Scientific Reports},
+	Title = {Large-Area Growth of Turbostratic Graphene on Ni(111) via Physical Vapor Deposition},
+	Year = {2016}}
+
+@article{ruthenium-carbon-solubility,
+	Author = {Arnoult, William J. and McLellan, Rex B.},
+	Date-Added = {2016-02-29 19:01:33 +0000},
+	Date-Modified = {2016-02-29 19:35:35 +0000},
+	Journal = {Scripta Metalurgica},
+	Title = {The Solubility of Carbon in Rhodium, Ruthenium, Iridium, and Rhenium},
+	Volume = {6},
+	Year = {1972}}
+
+@book{SurfSciTechniques,
+	Author = {Woodruf, D. P. and Delchar, T. A.},
+	Date-Added = {2016-02-02 21:52:01 +0000},
+	Date-Modified = {2016-04-20 18:18:14 +0000},
+	Edition = {2nd},
+	Publisher = {Cambridge University Press},
+	Title = {Modern Techniques of Surface Science},
+	Year = {1994}}
+
+@book{Hannon-LEEM-Book,
+	Date-Added = {2016-02-02 19:57:08 +0000},
+	Date-Modified = {2016-02-02 20:12:02 +0000},
+	Editor = {Hannon, James B and Haight, Richard and Ross, Frances M.},
+	Publisher = {World Scientific Publishing Company},
+	Series = {World Scientific Series in Materials and Energy},
+	Title = {Handbook of Instrumentation and Techniques for Semiconductor Nanostructure Characterization},
+	Year = {2012}}
+
+@article{superconductor-self-assembly,
+	Author = {Robbins, Spencer W. and Beaucage, Peter A. and Sai, Hiroaki and Tan, Kwan Wee and Werner, Jorg G. anf Sethna, James P. and DiSalvo, Francis J. and Gruner, Sol M. and Van Dover, Robert B. and Wiesner, Ulrich},
+	Date-Added = {2016-02-02 16:42:23 +0000},
+	Date-Modified = {2016-02-02 16:45:03 +0000},
+	Journal = {Science Advances},
+	Title = {Block copolymer self-assembly-directed synthesis of mesoporous gyroidal superconductors},
+	Year = {2016}}
+
+@article{opv-self-assembly,
+	Author = {Lee, Olivia P. and Yiu, Alan T. and Beaujuge, Pierre M. and Woo, Claire H. and Holcombe, Thomas W. and Millstone, Jill E. and Douglas, Jessica D. and Chen, Mark S. and Frechet, Jean M. J.},
+	Date-Added = {2016-02-02 16:38:50 +0000},
+	Date-Modified = {2016-02-02 16:41:19 +0000},
+	Journal = {Advanced Materials},
+	Title = {Efficient Small Molecule Bulk Heterojunction Solar Cells with High Fill Factors via Pyrene-Directed Molecular Self-Assembly},
+	Year = {2011}}
+
+@article{amanda-ttpo,
+	Author = {Kintigh, Jeremy T. and Hodgson, Jennifer L. and Singh, Anup and Pramanik, Chandrani and Larson, Amanda M. and Zhou, Lei and Briggs, Jonathan B. and Noll, Bruce C. and Kheirkhahi, Erfan and Pohl, Karsten and McGruer, Nicol E. and Miller, Glen P.},
+	Date-Added = {2016-01-29 18:12:07 +0000},
+	Date-Modified = {2016-01-29 18:15:12 +0000},
+	Journal = {Journal of Physical Chemistry C},
+	Title = {A Robust, High-Temperature Organic Cemiconductor},
+	Year = {2014}}
+
+@article{wang-nano,
+	Author = {Wang, Jun and Kaur, Irvinder and Diaconescu, Bogdan and Tang, Jian-Ming and Miller, Glen P. and Pohl, Karsten},
+	Date-Added = {2016-01-29 18:06:36 +0000},
+	Date-Modified = {2016-01-29 18:09:42 +0000},
+	Journal = {ACS Nano},
+	Title = {Highly Ordered Assembly of Single-Domain Dichloropentacene over Large Areas on Vicinal Gold surfaces},
+	Year = {2011}}
+
+@article{apsnews,
+	Author = {Chodos, Alan},
+	Date-Added = {2016-01-29 17:57:39 +0000},
+	Date-Modified = {2016-01-29 18:00:38 +0000},
+	Journal = {APS News},
+	Month = {October},
+	Title = {This Month in Physics History October 22, 2004: Discovery of Graphene},
+	Year = {2009}}
+
+@article{all-carbon,
+	Author = {Ramuz, Marc P. and Vosgueritchian, Michael and Wei, Peng and Wang, Chenggong and Gao, Yongli and Wu, Yingpeng and Chen, Yongsheng and Bao, Zhenan},
+	Date-Added = {2016-01-29 17:51:28 +0000},
+	Date-Modified = {2016-01-29 17:54:08 +0000},
+	Journal = {ACS Nano},
+	Title = {Evaluation of Solution-Processable Carbon-Based Electrodes for All-Carbon Solar Cells},
+	Volume = {6},
+	Year = {2012}}
+
+@book{Wolf-Nano,
+	Author = {Wolf, E. L.},
+	Date-Added = {2016-01-29 17:41:07 +0000},
+	Date-Modified = {2016-01-29 17:43:05 +0000},
+	Publisher = {Wiley-VCH},
+	Title = {Nanophysics and Nanotechnology: An Introduction to Modern Concepts in Nanoscience},
+	Year = {2004}}
+
+@misc{Feynman,
+	Author = {Feynman, Richard P.},
+	Date-Added = {2016-01-29 17:33:27 +0000},
+	Date-Modified = {2016-01-29 17:38:49 +0000},
+	Howpublished = {Originally Published in the 1960 issue of Caltech's Engineering and Science},
+	Month = {October},
+	Title = {There's Plenty of Room at the Bottom},
+	Year = {1959}}
+
+@unpublished{cs3,
+	Author = {Leslie A. Pray},
+	Date-Added = {2015-07-13 18:31:21 +0000},
+	Date-Modified = {2016-05-24 18:53:56 +0000},
+	Month = {September},
+	Note = {White Paper from 2012 Chemical Sciences and Society Summit},
+	Title = {Organic Electronics for a Better Tomorrow: Innovation, Accessibility, Sustainability},
+	Year = {2012}}
+
+@book{handbook-nanoscopy,
+	Date-Added = {2015-07-13 17:45:19 +0000},
+	Date-Modified = {2015-07-13 17:46:39 +0000},
+	Editor = {Gustaaf Van Tendeloo and Dirk Van Dyck and Stephen J. Pennycook},
+	Publisher = {Wiley-VCH},
+	Title = {Handbook of Nanoscopy},
+	Year = {2012}}
+
+@book{intro-nano,
+	Date-Added = {2015-07-07 17:07:49 +0000},
+	Date-Modified = {2015-07-07 17:10:45 +0000},
+	Editor = {Massimiliano Di Ventra and Stephane Evoy and James R. Heflin Jr.},
+	Publisher = {Springer},
+	Title = {Introduction to Nanoscale Science and Technology},
+	Year = {2004}}
+
+@article{mccarty-carbon,
+	Author = {Kevin F. McCarty and Peter J. Feibelman and Elena Logovina and Norman C. Bartelt},
+	Date-Added = {2015-02-11 19:35:59 +0000},
+	Date-Modified = {2016-10-05 15:31:06 +0000},
+	Journal = {Carbon},
+	Pages = {1806-1813},
+	Title = {Kinetics and thermodynamics of carbon segregation and graphene growth on Ru(0001)},
+	Volume = {47},
+	Year = {2009}}
+
+@article{batzill,
+	Author = {Matthias Batzill},
+	Date-Added = {2015-02-11 19:29:54 +0000},
+	Date-Modified = {2015-07-15 14:02:31 +0000},
+	Journal = {Surface Science Reports},
+	Pages = {83-115},
+	Title = {the surface science of graphene: Metal interfaces, CVD synthesis, nanoribbons, chemical modifications, and defects},
+	Volume = {67},
+	Year = {2012}}
+
+@article{samsung,
+	Author = {Sunhook Kim and Hyuk-Jun Kwon and Sunghun Lee and Hongshik Shim and Youngtea Chun and Woong Choi and Jinho Kwack and Dongwon Han and MyoungSeop Song and Sungchul Kim and Saeed Mohammahi and InSeo Kee and Sang Yoon Lee},
+	Date-Added = {2015-02-11 16:13:24 +0000},
+	Date-Modified = {2015-02-11 16:16:06 +0000},
+	Journal = {Advanced Materials},
+	Pages = {3511-3516},
+	Title = {Low-Power Flexible Organic Light-Emitting Diode Display Device},
+	Volume = {23},
+	Year = {2011}}
+
+@article{graphene-emerging,
+	Author = {Nathan O. Weiss and Hailong Zhou and Lei Liao and Yuan Liu and Shan Jiand and Yu Huang and Xiangfeng Duan},
+	Date-Added = {2015-02-11 16:01:18 +0000},
+	Date-Modified = {2015-02-11 16:03:39 +0000},
+	Journal = {Advanced Materials},
+	Number = {43},
+	Pages = {5782-5825},
+	Title = {Graphene: An Emerging Electronic Material},
+	Volume = {24},
+	Year = {2012}}
+
+@article{wallace,
+	Author = {P. R. Wallace},
+	Date-Added = {2014-09-08 17:03:55 +0000},
+	Date-Modified = {2014-09-08 17:04:52 +0000},
+	Journal = {Physical Review B},
+	Number = {9},
+	Title = {The Band Theory of Graphite},
+	Volume = {71},
+	Year = {1947}}
+
+@article{sxrd,
+	Author = {D. Martoccia and P. R. Willmott and T. Brugger and M. Bj{\"o}rck and S. G{\"u}nther and C. M. Schlep{\"u}tz and A. Cervellino and S. A. Pauli and B. D. Patterson and S. Marchini and J. Wintterlin and W. Moritz and T. Greber},
+	Date-Added = {2014-09-02 23:55:44 +0000},
+	Date-Modified = {2017-01-17 17:51:27 +0000},
+	Journal = {Physical Review Letters},
+	Title = {Graphene on Ru(0001): a 25 x 25 Supercell},
+	Volume = {101},
+	Year = {2008}}
+
+@article{borca,
+	Author = {Bogdana Borca and Sara Barja and Manuela Garnica and Marina Minniti and Antonio Politano and Josefa M Rodriguez-Garcia and Juan Jose Hinarejos and Daniel Farias and Amadeo L Vazquez de Parga and Rodolfo Miranda},
+	Date-Added = {2014-08-13 18:54:12 +0000},
+	Date-Modified = {2014-08-13 18:58:01 +0000},
+	Journal = {New Journal of Physics},
+	Month = {September},
+	Title = {Electronic and geometric corrugation of periodically rippled, self-nanostructured graphene epitaxially grown on Ru(0001)},
+	Volume = {12},
+	Year = {2010}}
+
+@article{wintterlin-leediv,
+	Author = {W. Moritz and B. Wang and M.-L. Bocquet and T. Brugger and T. Greber and J. Wintterlin and S. G{\"u}nther},
+	Date-Added = {2014-08-12 20:12:17 +0000},
+	Date-Modified = {2014-08-12 20:13:59 +0000},
+	Journal = {Physical Review Letters},
+	Month = {April},
+	Title = {Structure Determination of the Coincidence Phase of Graphene on Ru(0001)},
+	Volume = {104},
+	Year = {2010}}
+
+@article{pentagraph,
+	Author = {Haitao Zhou and Lizhi Zhang and Jinhai Mao and Gen Li and Yi Zhang and Yeliang Wang and Shixuan Du and Werner A. Hofer and Hong-Jun Gao},
+	Date-Added = {2014-08-01 01:15:40 +0000},
+	Date-Modified = {2014-08-01 01:39:39 +0000},
+	Journal = {Nano Research},
+	Number = {2},
+	Pages = {131-137},
+	Title = {Template directed assembly of pentacene molecules on epitaxial graphene on Ru(0001)},
+	Volume = {6},
+	Year = {2013}}
+
+@article{Fuhrer,
+	Author = {Michael S. Fuhrer and Chun Ning Lau and Allan H. MacDonald},
+	Date-Added = {2014-07-31 00:46:23 +0000},
+	Date-Modified = {2014-07-31 00:47:19 +0000},
+	Journal = {MRS Buleltin},
+	Month = {April},
+	Title = {Graphene: Materially Better Carbon},
+	Volume = {35},
+	Year = {2010}}
+
+@article{geim-elec,
+	Author = {A. H. Castro Neto and F. Guinea and N. M. R. Peres and K. S. Novoselov and A. K. Geim},
+	Date-Added = {2014-07-31 00:35:50 +0000},
+	Date-Modified = {2014-07-31 00:37:17 +0000},
+	Journal = {Reviews of Modern Physics},
+	Title = {The electronic properties of graphene},
+	Volume = {81},
+	Year = {2009}}
+
+@article{twisted,
+	Author = {Chun-Chieh Lu andYung-Chang Lin and Zheng Liu and Chao-Hui Yeh and Kazu Suenaga and Po-Wen Chiu},
+	Date-Added = {2014-07-30 20:32:09 +0000},
+	Date-Modified = {2014-07-30 20:34:12 +0000},
+	Journal = {ACS Nano},
+	Number = {3},
+	Pages = {2587-2594},
+	Title = {Twisting Bilayer Graphene Superlattices},
+	Volume = {7},
+	Year = {2013}}
+
+@article{bogdan-sulfur,
+	Author = {Bogdan Diaconescu and Georgi Nenchev and Joshua Jones and Karsten Pohl},
+	Date-Added = {2014-07-30 16:31:15 +0000},
+	Date-Modified = {2014-07-30 16:32:55 +0000},
+	Journal = {Microscopy Research and Technique},
+	Pages = {547-553},
+	Title = {Self-Organized Nanotemplating on Misfit Dislocation Networks Investigated by Scanning Tunneling Microscopy},
+	Volume = {70},
+	Year = {2007}}
+
+@article{mbe,
+	Author = {S. Chen and L.L. Fan and J. Wang and Y. Pan and F.H. Chen and P.S. Xu and C.W. Zou and Z.Y. Wu},
+	Date-Added = {2014-07-30 16:16:20 +0000},
+	Date-Modified = {2014-07-30 16:18:05 +0000},
+	Journal = {Surface and Coatings Technology},
+	Month = {July},
+	Title = {the optimaization of a self focusing e-beam evaporator for carbon evaporation and the application of graphene growth},
+	Year = {2014}}
+
+@article{wang,
+	Author = {Jun Wang and Jian-Ming Tang and Amanda Larson and Glen P. Miller and Karsten Pohl},
+	Date-Added = {2014-07-30 16:02:29 +0000},
+	Date-Modified = {2017-02-21 21:34:13 +0000},
+	Journal = {Surface Science},
+	Title = {Sharp organic interface of molecular {C60} chains and a pentacene derivative {SAM} on {Au(788)}: a combined STM and DFT study},
+	Year = {2013}}
+
+@article{BDiaconescuVTSTM,
+	Author = {B. Diaconescu and G. Nenchev and J. de la Figuera and K. Pohl},
+	Date-Added = {2014-07-30 16:01:48 +0000},
+	Date-Modified = {2014-07-30 16:01:48 +0000},
+	Journal = RevSciInstr,
+	Pages = {103701},
+	Title = {An ultra high vacuum fast--scanning and variable temperature scanning tunneling microscope for large scale imaging},
+	Volume = {78},
+	Year = {2007}}
+
+@article{bogdanc60,
+	Author = {Bogdan Diaconescu and Teng Yang and Savas Berber and Mikael Jazdzyk and Glen P. Miller and David Tom{\'a}nek and Karsten Pohl},
+	Date-Added = {2014-07-30 16:01:43 +0000},
+	Date-Modified = {2014-07-30 16:01:43 +0000},
+	Journal = {Physical Review Letters},
+	Month = {February},
+	Title = {Molecular Self-Assembly of Functionalized Fullerenes on a Metal Surface},
+	Year = {2009}}
+
+@article{htstm,
+	Author = {Sebastian G{\"u}nther and Sebastian D{\"a}nhardt and Matrin Ehrensperger and Patrick Zeller and Sefan Schmiti and Joost Wintterlin},
+	Date-Added = {2014-07-30 16:01:33 +0000},
+	Date-Modified = {2014-07-30 16:01:33 +0000},
+	Journal = {ACS Nano},
+	Title = {High-Temperature Scanning Tunneling Microscopy Study of the Ordering Transition of an Amorphous Carbon Layer into Graphene on Ruthenium(0001)},
+	Year = {2013}}
+
+@article{sutterleem,
+	Author = {Peter W. Sutter and Jan-Ingo Flege and Eli A. Sutter},
+	Date-Added = {2014-07-30 16:01:22 +0000},
+	Date-Modified = {2014-07-30 16:01:22 +0000},
+	Journal = {Nature Materials},
+	Title = {Epitaxial graphene on ruthenium},
+	Year = {2008}}
+
+@article{tatar,
+	Author = {Mous Tatarkhanov and Franck Rose and Evgeny Fomin and D. Frank Ogletree and Miquel Salmeron},
+	Date-Added = {2014-07-30 16:01:22 +0000},
+	Date-Modified = {2014-07-30 16:01:22 +0000},
+	Journal = {Surface Science},
+	Title = {Hydrogen adsorption on Ru(001) studied by scanning tunneling microscopy},
+	Year = {2007}}
+
+@article{ptcda,
+	Author = {Qing Hua Wang and Mark C. Hersam},
+	Date-Added = {2014-07-30 16:01:22 +0000},
+	Date-Modified = {2014-07-30 16:01:22 +0000},
+	Journal = {Nature Chemistry},
+	Month = {May},
+	Title = {Room-temperature molecular-resolution characterization of self-assembled organic monolayers on epitaxial graphene},
+	Year = {2009}}
+
+@book{Wolf,
+	Author = {Wolf, E. L.},
+	Date-Added = {2014-07-30 15:57:33 +0000},
+	Date-Modified = {2014-07-30 15:58:33 +0000},
+	Publisher = {Ofxord University Press},
+	Title = {Graphene: A New Paradigm in Condensed Matter and Device Physcis},
+	Year = {2014}}
+
+@article{Geim,
+	Author = {Geim, A. K. and Novoselov, K. S.},
+	Date-Added = {2014-07-30 15:49:24 +0000},
+	Date-Modified = {2014-07-30 15:50:27 +0000},
+	Journal = {Nature materials},
+	Number = {3},
+	Pages = {183},
+	Title = {The rise of graphene},
+	Volume = {6},
+	Year = {2007}}
+
+@article{vazquez,
+	Author = {A.L. V{\'a}zquez de Parga and F. Calleja and B. Borca and M. C. G. Passeggi Jr. and J.J. Hinarejos and R. Miranda},
+	Date-Added = {2013-09-30 20:34:41 +0000},
+	Date-Modified = {2014-08-13 18:58:38 +0000},
+	Journal = {Physical Review Letters},
+	Title = {Periodically Rippled Graphene: Growth and Spatially Resolved Electronic Structure},
+	Volume = {100},
+	Year = {2008}}
+
+@article{sutter,
+	Author = {Eli Sutter and D. P. Acharya and J. T. Sadowski and P. Sutter},
+	Date-Added = {2013-09-30 20:33:00 +0000},
+	Date-Modified = {2013-10-17 18:22:19 +0000},
+	Journal = {Applied Physics Letters},
+	Title = {Scanning tunneling microscopy on epitaxial bilayer graphene on ruthenium(0001)},
+	Volume = {94},
+	Year = {2009}}
+
+@article{jiang,
+	Author = {De-En Jiang and Mao-Hua Du and Sheng Dai},
+	Date-Added = {2013-09-30 19:26:25 +0000},
+	Date-Modified = {2013-10-17 18:19:07 +0000},
+	Journal = {Journal of Chemical Physics},
+	Title = {First principles study of the graphene/Ru(0001) interface},
+	Volume = {130},
+	Year = {2009}}
+
+@article{march,
+	Author = {S. Marchini and S. G{\"u}nther and J. Wintterlin},
+	Date-Added = {2013-09-25 18:09:48 +0000},
+	Date-Modified = {2013-10-17 18:17:09 +0000},
+	Journal = {Physical Review B},
+	Number = {075429},
+	Title = {Scanning tunneling microscopy of graphene on Ru(0001)},
+	Volume = {76},
+	Year = {2007}}
+
+@article{2D-TMDs,
+	Author = {Qing Hua Wang and Kourosh Kalantar-Zadeh and Andras Kis and Jonathan N. Coleman and Michael S. Strano},
+	Journal = {Nature Nanotechnology},
+	Title = {Electronics and optoelectronics of two-dimensional transition metal dichalcogenides},
+	Year = {2012}}

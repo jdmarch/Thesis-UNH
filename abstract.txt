@@ -1,0 +1,28 @@
+For some time there has been interest in the fundamental physical properties of low-dimensional
+material systems. The discovery of Graphene as a stable two-dimensional form of solid carbon lead
+to an exponential increase in research in two-dimensional and other reduced dimensional systems.
+It is now known that there is a wide range of materials which are stable in two dimensional form.
+These materials span a large configuration space of structural, mechanical, and electronic properties,
+which results in the potential to create novel electronic devices from nanoscale heterostructures with
+exactly tailored device properties. Understanding the material properties at the nanoscale level requires
+specialized tools to probe materials with atomic precision.
+
+Here I present the growth and analysis of a novel graphene-ruthenium system which exhibits unique polymorphism in its
+surface structure, hereby referred to as polymorphic graphene. Scanning Tunneling Microscopy (STM) investigations
+of the polymorphic graphene surface reveal a periodically rippled structure with a vast array of domains, each
+exhibiting a unique moire period. The moire sizes found in polymorphic graphene are previously unreported in
+past studies of the structure of graphene on ruthenium.
+
+To better understand many of the structural properties of this system, characterization methods beyond
+those available at the UNH surface science lab are employed. Further investigation using Low Energy
+Electron Microscopy (LEEM) has been carried out at Sandia National Laboratory's Center for Integrated Nanotechnology.
+To aid in analysis of the LEEM data, I have developed a software package to automate extraction of electron reflectivity
+curves from real space and reciprocal space data sets.
+
+This software has been used in the study of numerous other two-dimensional materials beyond graphene in collaboration with 
+the Center for Functional Nanomaterials at Brookhaven National Laboratory, such as Molybdenum Disulfide and Black Phosphorus.
+When combined with computational modeling, the analysis of electron I(V) curves presents a method to quantify structural parameters
+in a material with angstrom level precision.
+
+While many materials studied in this thesis offer unique electronic properties, my work focuses primarily on their
+structural aspects, as well as the instrumentation required to characterize the structure with ultra high resolution.

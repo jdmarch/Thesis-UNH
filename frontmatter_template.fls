@@ -1,0 +1,6 @@
+PWD /Users/Maxwell/Dropbox/research/thesis/thesis/UNH_eThesis_Template
+INPUT /usr/local/texlive/2015/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-var/web2c/xetex/xelatex.fmt
+INPUT frontmatter_template.tex
+OUTPUT frontmatter_template.log

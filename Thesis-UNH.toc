@@ -1,0 +1,71 @@
+\contentsline {section}{\sc Dedication}{iii}
+\contentsline {section}{\sc Acknowledgments}{iv}
+\contentsline {section}{\sc List of Figures}{ix}
+\contentsline {section}{\sc Abstract}{xv}
+\select@language {english}
+\contentsline {chapter}{\numberline {1}\sc Introduction}{1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}
+\contentsline {section}{\numberline {1.2}Organic Electronics}{4}
+\contentsline {section}{\numberline {1.3}Graphene}{8}
+\contentsline {section}{\numberline {1.4}Self-Assembly}{11}
+\contentsline {section}{\numberline {1.5}Surface Science}{14}
+\contentsline {section}{\numberline {1.6}Summary}{18}
+\contentsline {chapter}{\numberline {2}\sc Graphene}{20}
+\contentsline {section}{\numberline {2.1}Carbon and its Allotropes}{20}
+\contentsline {section}{\numberline {2.2}Carbon in Two Dimensions: Graphene}{22}
+\contentsline {subsection}{\numberline {2.2.1}Discovery and History}{22}
+\contentsline {subsection}{\numberline {2.2.2}Structure}{23}
+\contentsline {subsection}{\numberline {2.2.3}Significance: Paradigm shift to 2D}{27}
+\contentsline {section}{\numberline {2.3}Properties and Applications}{29}
+\contentsline {subsection}{\numberline {2.3.1}Structure Review}{29}
+\contentsline {subsection}{\numberline {2.3.2}Electronic Structure}{31}
+\contentsline {subsection}{\numberline {2.3.3}Optics}{36}
+\contentsline {subsection}{\numberline {2.3.4}Use in organic electronics}{37}
+\contentsline {subsection}{\numberline {2.3.5}2D Materials and Nanoelectronics}{37}
+\contentsline {section}{\numberline {2.4}Growth Methods}{38}
+\contentsline {subsection}{\numberline {2.4.1}Exfoliation}{38}
+\contentsline {subsection}{\numberline {2.4.2}Chemical Vapor Deposition: CVD}{39}
+\contentsline {subsection}{\numberline {2.4.3}Physical Vapor Deposition: PVD}{41}
+\contentsline {subsection}{\numberline {2.4.4}Graphitization and Segregation}{41}
+\contentsline {section}{\numberline {2.5}Summary}{43}
+\contentsline {chapter}{\numberline {3}\sc Tools for surface Science}{44}
+\contentsline {section}{\numberline {3.1}Low Energy Electrons - Ideal Surface Science Probes}{44}
+\contentsline {section}{\numberline {3.2}Low Energy Electron Diffraction}{45}
+\contentsline {section}{\numberline {3.3}Low Energy Electron Microscopy}{49}
+\contentsline {section}{\numberline {3.4}Scanning Tunneling Microscopy: Ultra High Resolution Surface Microscopy}{54}
+\contentsline {section}{\numberline {3.5}Further Surface Science Techniques}{60}
+\contentsline {section}{\numberline {3.6}Summary}{61}
+\contentsline {chapter}{\numberline {4}\sc Polymorphic Graphene: Modulating the Graphene Surface Structure}{63}
+\contentsline {section}{\numberline {4.1}Graphene on Ruthenium: a departure from pristine graphene}{63}
+\contentsline {subsection}{\numberline {4.1.1}Growth of Polymorphic Graphene}{72}
+\contentsline {section}{\numberline {4.2}Polymorphic Graphene: A modulated graphene structure}{76}
+\contentsline {section}{\numberline {4.3}Limitations in analysis of polymorphic graphene}{80}
+\contentsline {chapter}{\numberline {5}\sc A Low Energy Electron Microscopy Investigation of Polymorphic Graphene}{85}
+\contentsline {section}{\numberline {5.1}Preliminary LEEM investigation of polymorphic graphene}{85}
+\contentsline {section}{\numberline {5.2}Results from first LEEM experiment}{95}
+\contentsline {section}{\numberline {5.3}LEEM investigation on the influence of hydrogen in the graphene growth process}{97}
+\contentsline {chapter}{\numberline {6}\sc Novel Layered Materials Studied with LEEM/LEED-I(V)}{111}
+\contentsline {section}{\numberline {6.1}Molybdenum Disulfide}{113}
+\contentsline {section}{\numberline {6.2}Black Phosphorous}{115}
+\contentsline {section}{\numberline {6.3}Summary}{117}
+\contentsline {chapter}{\numberline {7}\sc Conclusions}{118}
+\contentsline {section}{\numberline {7.1}Summary of Results}{119}
+\contentsline {section}{\numberline {7.2}Future Outlook}{122}
+\contentsline {chapter}{\sc Appendices}{125}
+\contentsline {chapter}{\sc Appendix \numberline {A}\sc PLEASE: The \textbf {P}ython \textbf {L}ow-energy \textbf {E}lectron \textbf {A}nalysis \textbf {S}uit\textbf {E}}{126}
+\contentsline {section}{\numberline {A.1}Introduction}{126}
+\contentsline {section}{\numberline {A.2}Background and Motivation: Why is it?}{126}
+\contentsline {section}{\numberline {A.3}Functionality and Usage}{127}
+\contentsline {subsection}{\numberline {A.3.1}LEEM and LEED Visualization}{127}
+\contentsline {subsection}{\numberline {A.3.2}I(V) Curve Extraction}{128}
+\contentsline {subsection}{\numberline {A.3.3}I(V) Output}{129}
+\contentsline {subsection}{\numberline {A.3.4}Standardized format for File Input}{129}
+\contentsline {subsection}{\numberline {A.3.5}Data Smoothing}{130}
+\contentsline {subsection}{\numberline {A.3.6}LEED Background Analysis Automation}{130}
+\contentsline {section}{\numberline {A.4}Code}{132}
+\contentsline {section}{\numberline {A.5}License}{132}
+\contentsline {section}{\numberline {A.6}Current and Future Work}{132}
+\contentsline {subsection}{\numberline {A.6.1}Features under development}{134}
+\contentsline {subsection}{\numberline {A.6.2}Planned features not currently under development}{135}
+\contentsline {chapter}{\sc Appendix \numberline {B}Guide for LEED Background Subtraction using PLEASE and Python}{137}
+\contentsline {chapter}{\sc Bibliography}{145}

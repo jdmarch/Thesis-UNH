@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1499791431 "frontmatter_template.tex" "frontmatter_template.pdf" "frontmatter_template" 1499791432
+  "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1445297872 31985 3b2aa1e4e73426e2011ec5231ac92e0f ""
+  "/usr/local/texlive/2015/texmf-var/web2c/xetex/xelatex.fmt" 1432479679 3445950 7f6125c6eb78b33bcedbe55e49dbfd83 ""
+  "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
+  "frontmatter_template.aux" 1499789689 1434 a169d8970c317b94882d732808a6db0e ""
+  "frontmatter_template.tex" 1499791428 8699 d7771d0b4dfd936f4726807835b2f52d ""
+  (generated)
+  "frontmatter_template.pdf"
+  "frontmatter_template.log"

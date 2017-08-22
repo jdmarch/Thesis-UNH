@@ -1,0 +1,80 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%!TEX encoding = UTF-8 Unicode UNH Thesis Style defined by other people and used successfully by
+% Iulian Ruset for PhD dissertation submitted and accepted May 2005
+% Burcin Donmez for PhD dissertation submitted and accepted August 2006
+% Alexander Vapirev for PhD dissertation submitted and accepted August 2007
+% Georgi Nenchev (GNN) for PhD dissertation submitted and accepted May 2008 and
+% Matthew Argall for electronic submission of thesis. Accepted December 2014
+% Maxwell Grady for electronic submission of thesis Summer 2017.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Please keep all files ASCII encoded to retain compatibility
+% Compiled with pdfTeXk on Mac OS X  (10.4.10) (GNN)
+% Compiled with TeXShop on OS X El. Capitan (MG)
+% Compiled with TeXWorks Windows 10 (MG)
+
+\documentclass[12pt,letterpaper]{report} 	% don't change this
+\usepackage{graphicx}
+\usepackage{url}
+%%%%%%%%%%%%%%%%%%%%
+\renewcommand\bibname{\sc Bibliography} 	% To make bibliography in capital 12/05/05 Burcin Donmez
+%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{hyperref}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{bookdefs_template}
+%\includeonly{     %This will let you compile one chapter at a time while keeping all the references and numbering intact. Choose that chapter by un-commenting \includeonly{ and the corresponding line (GNN)
+%frontmatter_template}
+%./Chapters/Chapter-1}
+%./Chapters/Chapter-}2
+%./Chapters/Chapter-3}
+%./Chapters/Appendix-A}
+%./Chapters/Appendix-B}
+%./Chapters/Appendix-C}
+\begin{document}
+
+\include{frontmatter_template}  % FRONTMATTER here - Includes title page, acknowledgments, abstract, etc.
+%\begin{singlespace}            % in case you want to reduce the size of the thesis for printing purposes, un-comment here. Than you need to comment "singlespace" from bibliography
+
+\pagenumbering{arabic}
+
+%The thesis chapters. Do not comment those when using \includeonly (GNN).
+%\include{./Chapters/Chp_Introduction}
+\include{./Chapters/Chapter-1}
+\include{./Chapters/Chapter-2}
+\include{./Chapters/Chapter-3}
+\include{./Chapters/Chapter-4}
+\include{./Chapters/Chapter-5}
+\include{./Chapters/Chapter-6}
+\include{./Chapters/Chapter-7}
+\begin{singlespace}     % comment this if want all thesis at one spaced, and uncomment the singlespace from the \toprul
+
+%%%%%%%%%%%%%%%%%%%%%%%
+% Handling of the appendices (if any) - Alexander Vapirev, July 2007
+% If you don't have appendix then comment all these lines.
+% Added \usepackage{appendix} in bookdefs
+% Better handling of appendices here. Then each appendix is just as another chapter.
+% If there is ONLY one appendix then you must not assign letter to it.
+%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{chapter}{\sc Appendices}  % Adds "Appendices" to the TOC. \sc makes sure it is the same style as the rest of TOC
+\appendixtitletocon                             % puts the word "Appendix" before each appendix letter in TOC
+\renewcommand\appendixpagename{\sc Appendices}  % makes sure that "Appendices" on separation page is same style as all chapters
+\appendixpage                                   % include separation page before the appendices start
+\renewcommand\appendixname{\sc Appendix}		% this line makes sure that "Appendix" is written with the same font style as the rest of TOC
+\begin{appendices}
+\include{./Appendices/Appendix-A}               % APPENDIX A
+\include{./Appendices/Appendix-B}               % APPENDIX B
+% \include{./Appendices/Appendix-C}               % APPENDIX B
+\end{appendices}
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{chapter}{\sc Bibliography} % Add Bibliography into table of contents 12/05/05 Burcin Donmez
+%%%%%%%%%%%%%%%%%%%%
+\bibliography{./mybib}
+\end{singlespace}
+\end{document}
+
+% GOOD LUCK!

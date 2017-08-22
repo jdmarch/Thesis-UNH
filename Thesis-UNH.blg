@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thesis-UNH.aux
+The style file: plainurl.bst
+A level-1 auxiliary file: frontmatter_template.aux
+A level-1 auxiliary file: ./Chapters/Chapter-1.aux
+A level-1 auxiliary file: ./Chapters/Chapter-2.aux
+A level-1 auxiliary file: ./Chapters/Chapter-3.aux
+A level-1 auxiliary file: ./Chapters/Chapter-4.aux
+A level-1 auxiliary file: ./Chapters/Chapter-5.aux
+A level-1 auxiliary file: ./Chapters/Chapter-6.aux
+A level-1 auxiliary file: ./Chapters/Chapter-7.aux
+A level-1 auxiliary file: ./Appendices/Appendix-A.aux
+A level-1 auxiliary file: ./Appendices/Appendix-B.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ./mybib.bib
+Warning--can't use both author and editor fields in Figuera-LEEM
+You've used 90 entries,
+            2849 wiz_defined-function locations,
+            1086 strings with 21657 characters,
+and the built_in function-call counts, 38643 in all, are:
+= -- 3649
+> -- 2332
+< -- 3
++ -- 871
+- -- 770
+* -- 2234
+:= -- 6137
+add.period$ -- 277
+call.type$ -- 90
+change.case$ -- 639
+chr.to.int$ -- 0
+cite$ -- 91
+duplicate$ -- 943
+empty$ -- 2999
+format.name$ -- 770
+if$ -- 9473
+int.to.chr$ -- 0
+int.to.str$ -- 90
+missing$ -- 97
+newline$ -- 454
+num.names$ -- 184
+pop$ -- 986
+preamble$ -- 1
+purify$ -- 565
+quote$ -- 0
+skip$ -- 2620
+stack$ -- 0
+substring$ -- 700
+swap$ -- 96
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 324
+warning$ -- 1
+while$ -- 193
+width$ -- 92
+write$ -- 959
+(There was 1 warning)

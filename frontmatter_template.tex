@@ -1,0 +1,117 @@
+%%%%%%%%%%%%%%%%%%%%%%%% frontmatter %%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Please, keep this file ASCII encoded for compatibility (GNN)
+%           TITLE PAGE
+\title{\sc A study of the surface structure of polymorphic graphene and other two-dimensional materials for use in novel electronics and organic photovoltaics}           	 % Your title here, all capitals
+\author{MAXWELL GRADY}                     		 % Your name, all capitals
+\AbstractAuthor{Maxwell Grady}                   % Your name in lowercase for the abstract.(GNN)
+%\AbstractAuthor{John Doe\\Advisor: John Doe Sr.}    % For the Microfilming copy of the abstract (GNN)
+\prevdegrees{B.S. in Theoretical Physics and Applied Mathematics, Loyola University Chicago, 2010}	% Your old degree
+\major{Physics}                               						% Your new major
+\degree{Doctor of Philosophy}                          				% Your new degree
+\degreemonth{September}                                   			% When awarded.
+\degreeyear{2017}                                      							 %
+\approvaldate{September 05, 2017}
+\thesisdate{September, 2017}
+\DOCUMENTtype{DISSERTATION}
+\Documenttype{Dissertation}
+\documenttype{dissertation}
+\maketitle
+
+%\copyrightyear{2007}                                   	    % Delete these
+%\makecopyright                                         	 		% if no copyright
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           THE COMMITTEE
+%	The most importatnt page. Check the commitee memebers full names and their current respective titles.
+
+% {Faculty Name, Title (includes discipline)}{Affiliation (non UNH members)}
+\supervisor{Karsten Pohl}{Professor of Physics, University of New Hampshire}
+\committee{Karl Slifer}{Associate Professor of Physics, University of New Hampshire}
+\committee{Olof Echt}{Professor of Physics, University of New Hampshire}
+\committee{Benjamin D. G. Chandran}{Professor of Physics, University of New Hampshire}
+\committee{David S. Lashmore}{Research Professor of Materials Science, University of New Hampshire}
+\makeapproval
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           DEDICATION PAGE
+
+\begin{dedication}
+For my family, who never ceased to believe in me.
+\end{dedication}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%          ACKNOWLEDGMENTS PAGE
+\acknowledgments
+\indent
+\begin{center}
+Thanks to all who helped me along my way and  specifically:
+\end{center}
+\begin{itemize}
+\item Wild Cat Transit for ferrying me from Dover to Durham daily
+
+\item Vinnie and the staff of Higher Grounds for supplying an endless amount of coffee and bagels just steps from my desk
+
+\item Heather Castle and the UNH Library staff for helping me track down a number of difficult resources and purchasing books relevant to my research
+
+\item Kris Maynard for having the patience to debug my early python code
+
+\item Zhongwei Dai for helping to test my LEEM/LEED software
+
+\item Bogdan Diaconescu and Taisuke Ohta for help with our LEEM experiments at Sandia National Laboratory
+
+\item Jurek Sadowski for help with our LEEM experiments at Brookhaven National Laboratory and for guidance and suggestions for the LEEM software I developed
+
+\item All of my thesis committee members for their patience and guidance
+
+\item NSF, NASA, CINT, UNH, and all other funding sources for making this research possible
+
+\item Finally, my advisor, Dr. Karsten Pohl, for providing guidance in all of my research and lighthearted conversation about the latest events in the world of professional soccer
+
+\end{itemize}
+\endacknowledgments
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{secnumdepth}{2} %Sets the depth of section numbering. Gradschool recommends not to exceed 2 (GNN)
+\setcounter{tocdepth}{3}  %Will print in the TOC all section entries down to \subsubsection{} and the subsubsections are not numbered if previous counter is set at 2(GNN)
+\tableofcontents
+%\listoftables
+\listoffigures
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%           ABSTRACT PAGE (REQUIRED)
+\begin{abstractpage}
+\indent
+%Gradschool limit - no more than 350 words (GNN)
+
+For some time there has been interest in the fundamental physical properties of low-dimensional
+material systems. The discovery of graphene as a stable two-dimensional form of solid carbon lead
+to an exponential increase in research in two-dimensional and other reduced dimensional systems.
+It is now known that there is a wide range of materials which are stable in two-dimensional form.
+These materials span a large configuration space of structural, mechanical, and electronic properties,
+which results in the potential to create novel electronic devices from nanoscale heterostructures with
+exactly tailored device properties. Understanding the material properties at the nanoscale level requires
+specialized tools to probe materials with atomic precision.
+
+Here I present the growth and analysis of a novel graphene-ruthenium system which exhibits unique polymorphism in its
+surface structure, hereby referred to as polymorphic graphene. Scanning Tunneling Microscopy (STM) investigations
+of the polymorphic graphene surface reveal a periodically rippled structure with a vast array of domains, each
+exhibiting a unique moire period. The majority of moire domains found in this polymorphic graphene system are previously unreported in past studies of the structure of graphene on ruthenium.
+
+To better understand many of the structural properties of this system, characterization methods beyond
+those available at the UNH surface science lab are employed. Further investigation using Low Energy
+Electron Microscopy (LEEM) has been carried out at Sandia National Laboratory's Center for Integrated Nanotechnology and the Brookhaven National Laboratory Center for Functional Nanomaterials. To aid in analysis of the LEEM data, I have developed a software package to automate extraction of electron reflectivity curves from real space and reciprocal space data sets.
+
+This software has been used in the study of numerous other two-dimensional materials beyond graphene in collaboration with the Dr. Richard M. Osgood research group at Columbia University and the Center for Functional Nanomaterials at Brookhaven National Laboratory. When combined with computational modeling, the analysis of electron I(V) curves presents a method to quantify structural parameters in a material with angstrom level precision.
+
+While many materials studied in this thesis offer unique electronic properties, my work focuses primarily on their
+structural aspects, as well as the instrumentation required to characterize the structure with ultra high resolution.
+
+\iffalse
+Graphene has aroused tremendous interest as a novel material in the field of organic electronics and organic photovoltaics due to its numerous unique structural and electronic properties.
+Graphene's optical properties combined with its intrinsic electric conductance make it an ideal candidate for organic photovoltaic devices. Polymorphic graphene also provides a unique structure for
+the exploration of the processes of molecular self-assembly and the growth of ordered arrays of nano-particles. The novel growth method producing polymorphic graphene has been explored by scanning tunneling microscopy, STM, and low energy electron diffraction, LEED, at the UNH surface science lab. Theoretical work using density functional theory, DFT, to understand the structure of this polymorphic system has also been initially completed. STM investigations have revealed a wide range of moire superstructures in the polymorphic sample with moire periodicities ranging from 0.9 to 3.0nm. DFT calculations help to explain these reconstructions as an influence of interfacial atomic hydrogen. LEED/LEEM I(V) studies are planned to accompany the STM and DFT data to more fully understand the emergence of these superstructures. We will use a LEEM I(V) modeling technique under development at UNH to help accurately fit a model to experimentally collected LEEM data. Once the polymorphic graphene structure has been accurately determined we can proceed with experiments to utilize this unique system as a template for molecular self-assembly of organic semiconductors such as pentacene as well as the growth of %ordered arrays of metallic nano-clusters. Control over the periodicity of assembled superstructures by substrate manipulation provides a way to study possible enhancements of electronic efficiency of devices based on organic electronics via %enhancement of intra-layer ordering.
+\fi
+
+
+\end{abstractpage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% end %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
